@@ -1,1 +1,1 @@
-# LegalChatBot-RAG
+# LegalChatBot
